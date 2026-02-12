@@ -8,7 +8,7 @@ website:
       - text: "Visual Statistics"
         menu: 
           - text: "Two-samples Test"
-            href: Two-samples_test.html
+            href: two-samples_test.html
     right:
       - href: index.qmd
         text: Home
